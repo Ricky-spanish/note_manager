@@ -3,7 +3,7 @@
 Созданы базовые переменные для заметки: username, title, content, status, created_date, issue_date.
 Вывод значений организован через print.
 
-#2. data_chnger
+#2. data_changer
 
 Реализовано преобразование формата отображения дат для пользователя, исключив год при выводе переменных created_date и issue_date.
 
